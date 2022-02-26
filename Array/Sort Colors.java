@@ -1,3 +1,5 @@
+// HERE WE USE DUTCH FLAG ALGO
+
 class Solution {
     public void sortColors(int[] nums) {
         // Arrays.sort(nums);
